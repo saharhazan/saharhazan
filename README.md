@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Sahar Hazan
 
-<!--
-**saharhazan/saharhazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer @ Intel**  
+☁️ Specializing in **Cloud-Native Development** and **Automation**  
+🛠️ Working with **Python**, **C#**, **Kubernetes**, **Azure**, and **React**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects I'm proud of:
+- 🛡️ [Ransomware Detection Tool](https://github.com/morsimha/Ransomware_Detection_Tool) — built during a hackathon to detect infected files using entropy analysis
+- 🐾 [Walkie Doggy](https://github.com/Roni18Alon/WalkieDoggyProject) — web app for dog walking management
+- 🔐 Ingress Controller assignment — check out my [Ingress_Assignment](https://github.com/saharhazan/Ingress_Assignment)
+
+---
+
+### 📫 How to reach me
+- 💼 [LinkedIn](https://linkedin.com/in/saharhazan)
