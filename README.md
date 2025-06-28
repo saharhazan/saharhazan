@@ -15,3 +15,9 @@
 
 ### 📫 How to reach me
 - 💼 [LinkedIn](https://linkedin.com/in/saharhazan)
+
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
